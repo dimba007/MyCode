@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<html>
+<head>
+    <title></title>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+ 
+
+    <script type="text/javascript">
+
+        var array = [ 1, 2, 3, 4, 5];
+        var sum = 0;
+        function MyFunc(array){
+        
+            for (var i = 0; i < array.length; i++) {
+                sum += array[i];
+            }
+            alert("Sum of the Array's items:  " + sum);
+          
+        }
+
+        MyFunc(array);
+    </script>
+</head>
+
+<body>
+
+</body>
+</html>
