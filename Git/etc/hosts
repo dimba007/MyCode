@@ -1,8 +1,3 @@
-# Start Open Server 869712c37b9706e612365e83c56f66f8_hosts
-127.0.0.1 AppServ
-127.0.0.1 localhost
-127.0.0.1 project
-# End Open Server 869712c37b9706e612365e83c56f66f8_hosts
 # Copyright (c) 1993-2009 Microsoft Corp.
 #
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
@@ -23,19 +18,3 @@
 # localhost name resolution is handled within DNS itself.
 #	127.0.0.1       localhost
 #	::1             localhost
-127.0.0.1	localhost
-127.0.0.1	www.subdomain.localhost
-127.0.0.1	www.subdomain.test1.ru
-127.0.0.1	subdomain.localhost
-127.0.0.1	subdomain.test1.ru
-127.0.0.1	www.localhost
-127.0.0.1	www.test1.ru
-127.0.0.2	custom-host
-127.0.0.2	www.custom
-127.0.0.1	test1.ru
-127.0.0.2	custom
-127.0.0.1 serial.alcohol-soft.com
-127.0.0.1 www.alcohol-soft.com
-127.0.0.1 images.alcohol-soft.com
-127.0.0.1 trial.alcohol-soft.com
-127.0.0.1 alcohol-soft.com

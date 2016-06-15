@@ -1,6 +1,0 @@
-C:\Users\dimba\Desktop\MyCode\MyCode\bin\Debug\MyCode.exe.config
-C:\Users\dimba\Desktop\MyCode\MyCode\bin\Debug\MyCode.exe
-C:\Users\dimba\Desktop\MyCode\MyCode\bin\Debug\MyCode.pdb
-C:\Users\dimba\Desktop\MyCode\MyCode\obj\Debug\MyCode.csprojResolveAssemblyReference.cache
-C:\Users\dimba\Desktop\MyCode\MyCode\obj\Debug\MyCode.exe
-C:\Users\dimba\Desktop\MyCode\MyCode\obj\Debug\MyCode.pdb
